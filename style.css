@@ -1,0 +1,89 @@
+
+.instatitle{
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 10px auto 10px;
+}
+#div1 {
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    border: 1px solid grey;
+    width: 350px;
+    height: auto;
+    padding-bottom: 20px;
+}
+#div2{
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid grey;
+    width: 350px;
+    height: auto;
+}
+.inputbox{
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 250px;
+    background-color: #fafafa;
+    border: 1px solid lightslategray;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+.login{
+    display: block;
+    color: white;
+    font-size: 11pt;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 275px;
+    padding: 5px;
+    background-color: skyblue;
+    border: 0px;
+    border-radius: 5px;
+}
+.or{
+    font-family: Nanum Gothic;
+    font-size: 10pt;
+    text-align:center; 
+    color: gray;
+    position: relative;
+}
+
+.facebookimage {
+    display: inline;
+    width: 25px;
+    height: auto;
+    position: relative;
+    top: 7px;
+}
+
+.facebook{
+    display: block;
+    margin-top: 20px;
+    position: relative;
+    color: #385185;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+.forgot{
+    font-size: 11px;
+    text-align:center; 
+    color:black; 
+    margin-top: 15px;
+}
+.donthave{
+    font-size: 15px; 
+    text-align: center; 
+    display: block;
+    margin: 20px auto 20px; 
+}
+.noaccount{
+    color:#0095f6;
+    font-weight: bold;
+    text-decoration: none;
+}
